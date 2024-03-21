@@ -65,6 +65,7 @@ section{
 section h2{
     margin-top: 0;
     text-align: center;
+    color: black;
 
 }
 
@@ -77,3 +78,13 @@ section h2{
     margin-top: 0;
     text-align: center;
 }
+
+footer{
+    background-color:burlywood;
+    color:#fff;
+    text-align: center;
+    position: fixed; 
+    bottom:0; 
+     width:100%;
+    }
+   
